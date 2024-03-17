@@ -1,0 +1,7 @@
+The CW2.ipynb Jupyternotebook contains the python code used for analyzing and generating the statistics used in the report.
+
+The Twitter_Retweet_Network_Analysis.docx contains the main report regarding the Retweet network analysis. 
+
+The raw network files are included as ZIP file in this submission, they must be extracted inside the "Retweet-JSON" folder (present as JSON files). 
+
+Each network's pyvis plot are also saved as html.
